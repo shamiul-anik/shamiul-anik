@@ -13,7 +13,7 @@
 
 - 👨‍💻 Portfolio [https://shamiul.netlify.app](https://shamiul.netlify.app)
 
-- 📝 Message me [https://t.me/shamiul_islam](https://t.me/shamiul_islam)
+- 📝 Message me on Telegram [https://t.me/shamiul_islam](https://t.me/shamiul_islam)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
