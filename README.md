@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📩 Email me **shamiulislamanik@gmail.com**
+- 📩 Email me at **shamiulislamanik@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view)
 
