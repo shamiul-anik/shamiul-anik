@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front-End Web Developer from Bangladesh with hands on experience in Bridge Engineering and Leadership.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </p>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamiul-anik" alt="shamiul-anik" /></a> </p>
 
@@ -21,7 +21,7 @@
 
 - 📩 Email me at **shamiulislamanik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view)
+- 📄 Know about my experiences [View Resume]([https://github.com/shamiul-anik/language-school-client](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view))
 
 - 👍 Interests **Technology, Reading Books, Cricket, Learning about Culture and Language**
 
