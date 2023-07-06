@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A. K. M. Shamiul Islam</h1>
 
-<h3 align="center">A passionate Front-End Web Developer from Bangladesh with hands on experience in Bridge Engineering and Leadership.</h3>
+<h3 align="center">Driving High-Quality Web Solutions through Innovation and Collaboration</h3>
 
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </h3>
