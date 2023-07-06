@@ -10,8 +10,6 @@
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamiul-anik" alt="shamiul-anik" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shamiul_bd" target="blank"><img src="https://img.shields.io/twitter/follow/shamiul_bd?logo=twitter&style=for-the-badge" alt="shamiul_bd" /></a> </p>
 
 - 🔭 I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client)
@@ -59,3 +57,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamiul-anik&show_icons=true&locale=en" alt="shamiul-anik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiul-anik&" alt="shamiul-anik" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamiul-anik" alt="shamiul-anik" /></a> </p>
