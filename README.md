@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/WGkypQg/github-banner.png)
+![GitHub Banner](https://i.ibb.co/WGkypQg/github-banner.png)
 
 <h1 align="center">Hi 👋, I'm A. K. M. Shamiul Islam</h1>
 
