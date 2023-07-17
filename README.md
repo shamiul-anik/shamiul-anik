@@ -35,17 +35,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/anikbd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anikbd/" height="30" width="40" /></a>
+<a href="https://t.me/shamiul_islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 <a href="https://codepen.io/aniksavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/aniksavar" height="30" width="40" /></a>
 <a href="https://dev.to/shamiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shamiul-islam" height="30" width="40" /></a>
 <a href="https://twitter.com/shamiul_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shamiul_bd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anikbd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anikbd/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12140799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12140799" height="30" width="40" /></a>
 <a href="https://fb.com/friend.anik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="friend.anik" height="30" width="40" /></a>
 <a href="https://instagram.com/shamiul_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamiul_bd" height="30" width="40" /></a>
 <a href="https://www.behance.net/anikbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="anikbd" height="30" width="40" /></a>
 <a href="https://medium.com/@shamiul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamiul-islam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@shamiul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shamiul_islam" height="30" width="40" /></a>
-<a href="https://t.me/shamiul_islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 
