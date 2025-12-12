@@ -24,7 +24,7 @@
 
 - 📩 Email me at **shamiulislamanik@gmail.com**
 
-- 📄 Know about my experiences [LindedIn](https://t.me/shamiul_islam](https://www.linkedin.com/in/anikbd/)
+- 📄 Know about my experiences [LindedIn](https://www.linkedin.com/in/anikbd/)
 
 <!-- - 📄 Know about my experiences [View Resume]([https://github.com/shamiul-anik/language-school-client](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view)) -->
 
@@ -81,6 +81,7 @@
   
 </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamiul-anik&show_icons=true&locale=en&layout=compact" alt="shamiul-anik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamiul-anik&show_icons=true&locale=en" alt="shamiul-anik" /></p>
@@ -88,3 +89,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiul-anik&" alt="shamiul-anik" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamiul-anik" alt="shamiul-anik" /></a> </p>
+-->
