@@ -2,31 +2,33 @@
 
 <h1 align="center">Hi 👋, I'm A. K. M. Shamiul Islam</h1>
 
-<h3 align="center">Front-End Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p>
-  Results-driven front-end web developer with over 4 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
+  Results-driven Software Engineer with over 6 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
 </p>
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </h3>
 
 <p align="left"> <a href="https://twitter.com/shamiul_bd" target="blank"><img src="https://img.shields.io/twitter/follow/shamiul_bd?logo=twitter&style=for-the-badge" alt="shamiul_bd" /></a> </p>
 
-- 🔭 I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client)
+- 🔭 I’m currently working on [Vue Career Hub](https://github.com/shamiul-anik/vue-career-hub) <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
 
-- 🌱 I’m currently learning **React, MongoDB, Node, Express, Firebase, TypeScript, NextJS**
+- 🌱 I’m currently learning **Vue, NextJS and Java**
 
 - 👨‍💻 Portfolio [https://shamiul.netlify.app](https://shamiul.netlify.app)
 
 - 📝 Message me on Telegram [https://t.me/shamiul_islam](https://t.me/shamiul_islam)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+<!-- 💬 Ask me about **HTML, CSS, JavaScript** -->
 
 - 📩 Email me at **shamiulislamanik@gmail.com**
 
-- 📄 Know about my experiences [View Resume]([https://github.com/shamiul-anik/language-school-client](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view))
+- 📄 Know about my experiences [LindedIn](https://t.me/shamiul_islam](https://www.linkedin.com/in/anikbd/)
 
-- 👍 Interests **Technology, Reading Books, Cricket, Learning about Culture and Language**
+<!-- - 📄 Know about my experiences [View Resume]([https://github.com/shamiul-anik/language-school-client](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view)) -->
+
+- 👍 Interests **Technology, Reading Books, Badminton, Learning about Culture and Language**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
