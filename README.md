@@ -6,7 +6,13 @@
 
 <p>
   Results-driven Software Engineer with over 6 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
-</p>
+</p> 
+
+<!--
+<p>
+  Results-driven Software Engineer with over 6 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
+</p> 
+-->
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=shamiul-anik&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul-anik" /> </h3>
 
