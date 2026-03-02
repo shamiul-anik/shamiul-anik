@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [Vue Jobs](https://github.com/shamiul-anik/vue-jobs) <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
 
-- 🌱 I’m currently learning **VueJS, NextJS, SQLite3 and Java**
+- 🌱 I’m currently learning **React, TypeScript, Node/Express and Azure**
 
 - 👨‍💻 Portfolio [https://shamiul.netlify.app](https://shamiul.netlify.app)
 
