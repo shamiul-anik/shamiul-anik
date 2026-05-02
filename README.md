@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p>
-  Results-driven Software Engineer with over 6 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
+  Results-driven Software Engineer with over 7 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
 </p> 
 
 <!--
@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [Vue Jobs](https://github.com/shamiul-anik/vue-jobs) <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
 
-- 🌱 I’m currently learning **React, TypeScript, Node/Express and Azure**
+- 🌱 I’m currently learning **React, TypeScript, React Native, Socket.io and Golang**
 
 - 👨‍💻 Portfolio [https://shamiul.netlify.app](https://shamiul.netlify.app)
 
