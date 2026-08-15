@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/shamiul_bd" target="blank"><img src="https://img.shields.io/twitter/follow/shamiul_bd?logo=twitter&style=for-the-badge" alt="shamiul_bd" /></a> </p>
 
-- 🔭 I’m currently working on project for practicing Socket.io. <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
+- 🔭 I’m currently working on a project for practicing Socket.io and updating my [Portfolio](https://akm-shamiul-islam.vercel.app) with latest version of Next.js, TailwindCSS, TypeScript and some other modern technologies. <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
 
 - 🌱 I’m currently learning **TypeScript, React Native and Socket.io**
 
