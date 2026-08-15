@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://twitter.com/shamiul_bd" target="blank"><img src="https://img.shields.io/twitter/follow/shamiul_bd?logo=twitter&style=for-the-badge" alt="shamiul_bd" /></a> </p>
 
-- 🔭 I’m currently working on [Vue Jobs](https://github.com/shamiul-anik/vue-jobs) <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
+- 🔭 I’m currently working on project for practicing Socket.io. <!-- I’m currently working on [Language School](https://github.com/shamiul-anik/language-school-client) -->
 
-- 🌱 I’m currently learning **React, TypeScript, React Native, Socket.io and Golang**
+- 🌱 I’m currently learning **TypeScript, React Native and Socket.io**
 
 - 👨‍💻 Portfolio [https://shamiul.netlify.app](https://shamiul.netlify.app)
 
@@ -28,7 +28,7 @@
 
 <!-- 💬 Ask me about **HTML, CSS, JavaScript** -->
 
-- 📩 Email me at **shamiulislamanik@gmail.com**
+- 📩 Email me at **islam.akm.shamiul@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/anikbd/)
 
