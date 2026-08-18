@@ -5,7 +5,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p>
-  Results-driven Software Engineer with over 7 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
+  Results-driven Software Engineer with over 7.5 years of experience in this field with hands-on experience in bridge engineering and leadership. Proven track record of collaborating with Japanese teams to successfully deliver high-quality projects. Skilled in leveraging cutting-edge technologies and driving innovative solutions to enhance user experiences and optimize website performance. Detail-oriented, organized, and efficient in meeting tight deadlines. Enthusiastic team player dedicated to contributing to company success.
 </p> 
 
 <!--
