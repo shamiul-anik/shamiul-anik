@@ -31,7 +31,7 @@
 
 - 📩 Email me at **islam.akm.shamiul@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/anikbd/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/akm-shamiul-islam)
 
 <!-- - 📄 Know about my experiences [View Resume]([https://github.com/shamiul-anik/language-school-client](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view](https://drive.google.com/file/d/1EaIm6ezEHb2adRRClVyUQzW9ZoDfSziZ/view)) -->
 
